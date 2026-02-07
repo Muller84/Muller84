@@ -14,8 +14,6 @@ I'm a **System Development Student**, deeply passionate about exploring and mast
 
 ### 🚀 GitHub Stats & Activity
 
-### 🚀 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muller84&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
