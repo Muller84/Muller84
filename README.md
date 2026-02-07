@@ -19,7 +19,7 @@ I'm a **System Development Student**, deeply passionate about exploring and mast
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muller84&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muller84&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Muller84&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ---
 
