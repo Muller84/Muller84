@@ -18,7 +18,7 @@ I'm a **System Development Student**, deeply passionate about exploring and mast
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muller84&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muller84&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muller84&theme=tokyonight)
 ---
 
 ### 📫 Get In Touch
