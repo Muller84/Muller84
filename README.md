@@ -14,7 +14,7 @@ I'm a **System Development Student**, deeply passionate about exploring and mast
 
 ### 🚀 GitHub Stats & Activity
 
-![Martina's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muller84&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muller84&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muller84&layout=compact&theme=tokyonight)
 
