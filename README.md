@@ -14,13 +14,11 @@ I'm a **System Development Student**, deeply passionate about exploring and mast
 
 ### 🚀 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muller84&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muller84&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Muller84&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Martina's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muller84&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muller84&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muller84&theme=tokyonight)
 ---
 
 ### 📫 Get In Touch
